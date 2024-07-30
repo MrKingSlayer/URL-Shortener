@@ -1,4 +1,17 @@
 
+# URL Shortener
+
+Welcome to the URL Shortener project! This is a simple and efficient web application developed in Go (Golang) that allows you to shorten long URLs. The shortened URLs can be shared easily and redirect users to the original, longer URLs.
+
+
+## Features
+
+- Shorten long URLs to a more manageable size.
+- Redirect users from short URLs to the original long URLs.
+
+
+
+
 ## Installation
 
 
